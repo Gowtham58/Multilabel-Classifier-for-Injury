@@ -131,8 +131,8 @@ Saving the predictions into the test.csv dataset.
  
  
 ## Reproducing the Code:
-Ensure the requirements.txt are installed
-First run the EDA.ipynb – This contains the exploratory data analysis of the dataset, the processing is done and saved as a csv file one for the Cause - Hierarchy 1 and another for Body Part - Hierarchy 1.
-Then run the cause_train.ipynb followed by bodypart_train.ipynb or vice versa, this will fine tune the bert-base-uncased model and saves the model locally.
-Run the test.ipynb  - This is where we load both the models and predict the labels for the test.csv. and saved the file in a new test.csv file which contains the predicted labels
+- Ensure the requirements.txt are installed
+- First run the EDA.ipynb – This contains the exploratory data analysis of the dataset, the processing is done and saved as a csv file one for the Cause - Hierarchy 1 and another for Body Part - Hierarchy 1.
+- Then run the cause_train.ipynb followed by bodypart_train.ipynb or vice versa, this will fine tune the bert-base-uncased model and saves the model locally.
+- Run the test.ipynb  - This is where we load both the models and predict the labels for the test.csv. and saved the file in a new test.csv file which contains the predicted labels
 

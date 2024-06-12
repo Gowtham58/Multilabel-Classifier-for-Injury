@@ -1,0 +1,436 @@
+Index,description
+5,thumb
+17,lower arm
+20,abdomen
+47,ee was getting out of the truck and twisted her right ankle
+48,worker was making a delivery and her right hand was bitten by a dog.
+59,worker was delivering a package and was bit by a dog on his right calf.
+63,back- strain
+77,"michael was carrying a heavy box to customer and felt a mild pain in his back towards his left arm. the pain continued through the night but is assumed ""old age."" pain did not go away and was reported days later."
+111,worker involved in unknown activity when he injured his back .
+132,"collision-another vehicle, collision-another vehicle, neck, tissue"
+135,"other/ unk, other/ unk, ears"
+143,"strain-holding/ carrying, strain-holding/ carrying, upper arm"
+146,"slip or fall on ice or snow, slip or fall on ice or snow, ankle"
+162,"foreign body (in eye), foreign body (in eye), eyes"
+171,"spray by hot water by hose (r abdomen; r thigh; r lower leg -, burn/exposure, misc, multiple body - body parts"
+172,"iw was operating a hand held grinder that kicked back and, cut/puncture/scrape, hand tool, upper extremities - hand"
+178,"iw was aerating the greens and developed lateral sided right hip, strain/injury by repetitive motion, lower extremities - hip"
+179,"iw was adjusting a bedknife and lacerated r 2nd finger., cut/puncture/scrape, object lift/handled, upper extremities - finger(s)"
+215,delivering package to a home & dog got loose biting ee
+216,closed the tip of right finger in door
+224,while the employee was deliver; specific noc; knee(s); fall/slip on same level
+227,employee was originally claimi; sprain; knee(s); cumulative (all other)
+229,"employee was running away from; strain; ankle(s); slipped, did not fall"
+233,the employee was getting out o; sprain; ankle(s); twisting
+260,"other/ unk, other/ unk, lower leg/ calf"
+279,"5600 - lifting, 5600 - lifting, 3800 - shoulder(s)"
+284,"accepted, non-litigated claim for a 21 year old shop assistant who alleged a lumbar back injury after lifting up a bucket of water with flowers in it ..., lifting, trunk : lumbar and/or sacral vertebrae (vertebrae noc trunk)"
+296,"ee was riding in the car when they vehicle was rear-ended. resulting in an injury to the neck., motor vehicle - collision with another vehicle, neck soft tissue"
+313,"injured worker stated- unloading grass, he pivoted on the lt knee and felt a sharp pain"
+319,"accepted non-litigated claim for a 29 year old male foreman who fell into a pit and landed on the left knee on top of a concrete corker at a job site/clients home, fall or slip - into openings, knee"
+359,"accepted, non-litigated claim for a 20 year old general laborer who alleged a laceration of the left index finger when he was cutting a hose on 01/01/ ..., hand tool, utensil; not powered, upper extremities : hand"
+400,"fall, slip, or trip injury from different level (elevation), fall, slip, or trip injury from different level (elevation), multiple body parts"
+419,"fall, slip, or trip injury into openings, fall, slip, or trip injury into openings, multiple body parts"
+436,"8200 - absorption, ingestion or inhalation noc, 8200 - absorption, ingestion or inhalation noc, 6300 - lumbar and/or sacral vertebrae"
+451,"ee was trying to break up a fight in front of the school, struck or injured by, multiple body parts"
+463,"ee was walking with a child when the child starting acting out and their feet got entangled with ees and ee fell to the floor bruising, fall or slip injury, lower extremities"
+471,"ee was hit in the head when restraining an out of control resident, struck or injured by, head"
+524,"ee was injured when student threw chair striking ee in right upper arm and knee. claim is settling for $130k which includes the msa and is being paid from 010101aaa dol: 01- 01-2001 however include 010101aaa, struck or injured by, lower extremities"
+538,"ee was involved in a mva, motor vehicle, multiple body parts"
+546,"one of the youth dropped a bowling ball on the ees left foot, struck or injured by, lower extremities"
+559,"ee was breaking up a fight and the youth bit and scratched ee, struck or injured by, upper extremities"
+560,"ee twisted ankle stepping out of window during fire drill, strain or injury by, lower extremities"
+564,"while ee going to sit down resident pulled chair and ee pull muscle of her lower back trying not to fall, strain or injury by, runk"
+574,"ee while shadowing a resident that left program ee hurt herself walking on sidewalk that was cracked and twist her foot, strain or injury by, lower extremities"
+584,"was struck in cheek and eye by student, struck or injured by, multiple body parts"
+596,"ee was in the kitchen when the individual came up behind them and punched ee in the back, struck or injured by, multiple body parts"
+609,"ee got assaulted by aggressive residents and scratches to face, bruised knee, pain in jaw and under left eye, struck or injured by, multiple body parts"
+622,"missed a step waling down and tripped landing on right foot sprained ankle., fall or slip injury, lower extremities"
+631,"irate resident threw table and two chairs at employee, lower back and chest., struck or injured by, head"
+634,"resident hit employee with dirty broom in face eyes., struck or injured by, head"
+635,"resident was having behavior issue and ripped glasses off emplouyee, and threw several things at employee., struck or injured by, head"
+641,"while cooking food for cottage, e burned fingers on right hand, burn or scald - heat or cold exposure, upper extremities"
+646,"resident threw chairs that ee blocked with arm and chair bounced off and hit ee in ankles as well., struck or injured by, lower extremities"
+652,"ee fell to the floor assisting student into bed after she tripped over the cot/ table resulting in pain to the right arm (shoulder) and buttocks .., fall or slip injury, trunk"
+672,"while driving residents back to facility van was side swiped, pain in back., motor vehicle, trunk"
+678,"chair broke from bas throwing employee to floor. left arm, right foot and back pain., fall or slip injury, lower extremities"
+680,"ee turned quickly to catch student before they eloped and caused injury to right foot, striking against or stepping on, lower extremities"
+695,"employees left hand and thumb were injured with an individual hit them with a chair., struck or injured by, upper extremities"
+697,"employee tripped over the cord protection and fell injuring their right foot .., fall or slip injury, lower extremities"
+705,"employee was doing routine diaper change when they felt and heard a pop in their right shoulder., strain or injury by, upper extremities"
+707,"ee tripped over raised tile., fall or slip injury, lower extremities"
+718,"ee was supervising kids in gym and rolled and injured knee, strain or injury by, lower extremities"
+728,"employee injured their right middle finger when a child grabbed and twisted it aggressively., struck or injured by, upper extremities"
+731,"punched ee in the face numerous times by person supported., struck or injured by, head"
+735,"the ee was hit in the leg by a chair, struck or injured by, lower extremities"
+753,"slipped and fell on iced driveway, fall or slip injury, lower extremities"
+756,"ee cut his left thumb while cutting onions, injured by cut, puncture, or scrape, upper extremities"
+770,"ee was redirecting the child and child became angry reciprocated with physical assault with use of a chair that child obtained from the campus fields, struck or injured by, upper extremities"
+771,"the employee was attacked by a client, the client kicked the employee spit in their face and hit them in the chest, struck or injured by, head"
+775,"ee cut their finger on a metal dish colander while cleaning, injured by cut, puncture, or scrape, upper extremities"
+781,"ee was attacked by client in ambulance, individual pulled ees hair and scratched neck, struck or injured by, multiple body parts"
+812,"person supported was redirected and became agitated and pushed and hit the employee, struck or injured by, neck"
+838,"employee was attacked by a resident that had behavioral issues employee has welts on the back of their arms, struck or injured by, upper extremities"
+841,"employee slipped and fell on ice and scraped their right knee, fall or slip injury, lower extremities"
+845,"employee was taking out the garbage and slipped and fell on ice and felt pain in their whole body, fall or slip injury, multiple body parts"
+847,"employee slipped and fell injuring their left ankle., fall or slip injury, lower extremities"
+856,"employee was scratched in the face by an individual the employee was assisting, struck or injured by, head"
+876,"employee was assaulted by a resident and has injuries to the left side of their face., struck or injured by, head"
+887,"employee was driving van when the vehicle was hit injuring her lower back, motor vehicle, trunk"
+902,"employee tripped and fell over chair, fall or slip injury, upper extremities"
+905,"employee was lifting boxes in the storage room when he started having back pain., strain or injury by, trunk"
+909,"ladder fell on employees right foot fracturing toe on his right foot, struck or injured by, lower extremities"
+925,"ee was in the gym with children when they were hit in the face by a volleyball causing pain in their face and nose., struck or injured by - falling or flying object, other head soft tissue"
+926,"ee was in a car and the car they were in backed up into another vehicle. ee indicts no injuries. resulting in no physical injuries., motor vehicle - collision with another vehicle, no physical injury"
+932,"ee was breaking up a fight between two children and ee grabbed one of the children to keep them away. the child broke away from ee and hurt their wrist., struck or injured by - fellow worker / patient, wrist"
+935,"ee was performing unspecified task. a minor closed van door on ees fingers. ee sustained inflammation to the left middle and ring fingers., caught in or between - miscellaneous (noc), finger(s)"
+942,"ee was handling resident when resident became agitated being redirect and attacked ee. resulting in bruised/swelling to right hand thumb, left upper arm, struck or injured by - fellow worker / patient, shoulder(s)"
+948,"ee was attacked by a resident resulting in contusion to forearm and right thigh and pulled hair, struck or injured by - fellow worker / patient, arm lower"
+950,"a youth threw a game controller at ees head causing pain, impaired vision, light headedness and feeling faint., struck or injured by - fellow worker / patient, other head soft tissue"
+968,"ee states during a separation of scholars ee was hit in the head with a chair and punched in the body numerous times., struck or injured by - fellow worker / patient, other head soft tissue"
+995,"low back strain: picking up an object and injured lower back, lower back area"
+1040,"employer alleges ee began work at 7:00 am, was lifting outrigger pad onto hook on the outside of the outrigger, felt a twang in his right trapezoid area., strained/pulled muscle right trapezoid. strain in neck and shoulder."
+1042,"employee was carrying fan deck supports on top of the condensers, slipped and knee fell into the picking eyes on condenser, employee was carrying fan deck supports on top of the condensers, slipped and knee fell into the pic"
+1043,"employee was grinding on a piece of pipe and the grinding disc broke and flew into his face shield. it went though his face shield, causing laceration to his mouth., employee was grinding on a piece of pipe and the grinding disc broke and flew into his face shield."
+1045,"employee started work at 700 am, was cutting plastic jug with a razor knife, slipped causing laceration to right upper thigh., employee started work at 700 am, was cutting plastic jug with a razor knife, slipped causing lacerat"
+1060,"driving truck, turned curb, truck flipped on side: neck and lower back strain., driving truck, turned curb, truck flipped on side: neck and lower back strain."
+1064,"picking up boxes, tripped/fell inuring low/mid back/head, picking up boxes, tripped/fell inuring low/mid back/head"
+1069,"pulling pallet jack, foot caught between floor grooves and wheel; twisted r knee; sprain, pulling pallet jack, foot caught between floor grooves and wheel; twisted r knee; sprain"
+1088,"accepted, non-litigated claim for 24-year-old service technician who on 1/1/01 sustained an electrical shock after swinging his elbow around and hitti ..., electrical current, trunk : chest"
+1097,"employee was planting 5-gallon plants when he got poked in the left eye, 79 object being lifted, 14 eye(s)"
+1098,"employee smashed his right thumb with a stake driver., 79 object being lifted, 37 thumb"
+1110,"employee was using a weed wacker and started to lose his balance, he fell and landed on his left hand., 29 on same level, 35 hand"
+1114,"employee smashed and split open his right ring finger., 81 struck injured by noc, 36 finger(s)"
+1118,"employee was stung by a bee in his left hand., 85 animal or insect, 35 hand"
+1123,"employee has an injury to his left thumb, 60 strain or injury noc, 37 thumb"
+1130,"employee was cutting stone with a saw and got debris in his right eye., 87 foreign body in eye, 14 eye(s)"
+1147,"employee was carrying metal tubes with 3 co-workers. when he pulled them up, the tube slipped and fell on his right foot injuring his toes., 79 object being lifted, 57 toe(s)"
+1161,"employee was assisting digging out a tree. he was digging out a trench by hand and was low to the ground removing soil and roots. employee got on his stomach to help get up from the position he was in and felt pain and discomfort to the left side of his body., 53 twisting, 42 low back area"
+1162,"employee was on his knees, trimming when his lower right back to his ankle began to hurt., 58 reaching, 42 low back area"
+1171,"employee was moving the lawn when he was stung by a bee in the left side of his neck., 85 animal or insect, 25 soft tissue (neck)"
+1178,"he was reviewing a trench when an employee broke a line that flung debris at him and it struck his eye., 75 falling or flying object, 14 eye(s)"
+1183,"technician was installing planetary gear set in to the rear axle in a tractor. while struggling to get assemble to fit in, it dropped into place and caught his left pinky finger between the housings, causing a laceration requiring stitches., caught in or between - machine or machiner, laceration-fingers"
+1187,"technician was putting brake drum on truck rear axle and pinched finger between brake and axle, causing a laceration on tip of right index finger. required 6 stitches., caught in or between - object handled, laceration-fingers"
+1188,"employee was taking dog outside, exiting through the sales department door. dog spotted another employee coming out the main door and tugged on the leash, excited to see him. employee slipped off a small step, hit the building with her back, then landed in the stones on the ground. she hit her right wrist on something, as there were two marks, reddened dents and bruising on the wrist almost immediately., fall or slip injury - fall, slip or trip, contusion-multiple body parts"
+1198,"technician was pressing out bearing on a shaft and the shaft fell and landed on the top of his right foot. an x-ray revealed that it was not broken, but it did require a couple stitches. he was advised to stay off his foot for a couple days and see his primary care physician for suture removal in 7 to 10 days., struck or injured by - object being lifted or hanc, laceration-foot"
+1221,"employee was putting up a new cupboard in the breakroom and trying to put a shelf in place. the shelf got wedged and when another employee pushed up on the shelf to dislodge it (while injured employee was still holding the cupboard), the cupboard raised up off the cleat and came down on her left arm., - object being lifted or h, sprain-shoulder(s) struck or injured"
+1225,"got into accident. the police sent him to central valley imaging to check if he got any injures when the accident happened. now he got the medical bill., motor vehicle, collision, unknown"
+1232,"rolling 2 tires while walking across the yard, 1 tire fell over and landed on the right foot, crushed between objects handled, foot right"
+1236,"an accepted, non-litigated claim for a 48 year old recycling driver who hurt his lower back, right leg, right ankle, and ribs when he was knocked off ..., from ladder or scaffolding, trunk : pelvis"
+1246,"felt pinch in his l calf when walking thru row with strawberry box., strain or injury by - holding or carrying"
+1248,"the employee was working on the (porta potty) bathrooms water tank when he stepped down from the bathroom trailer and stepped into a small pot hole in the ground causing his right foot to twist., strain by twisting, lower ext: ankle"
+1254,"employee was harvesting raspberries when she tripped on a loose rope end causing her to fall forward on both hands, didnt feel pain till some days later, fall/slip: same level, upper ext: wrist(s) and hand(s)"
+1255,"the employee was harvesting raspberry in the field when a bee flew into her shirt and stung her on the chest., struck by animal or insect, trunk: chest (rib/strn/sft tis)"
+1257,claim established with legal d; specific noc; spinalcord b; misc. causes other
+1261,the employee strained his lowe; strain; lower back; injury by pushing/pulling
+1273,"hooking up hose pain back and left leg., back"
+1297,"1900 - cut, punctured, scraped, noc, 1900 - cut, punctured, scraped, noc, 3600 - finger(s)"
+1351,"the claimant was lifting a plastic bag filled with glass, when he put his hand under the bag caused a laceration to the claimants left hand., struck by lifted object, hand, left"
+1357,"ee was sprayed in the face with insect poison., misc. causes - absorption/ingestion/inhalation, mouth"
+1358,"ee was completing regular job duties driving trucks although they werent provided with seat belts causing him to jump up and down in the truck which resulted in, misc. causes - cumulative (noc), no physical injury"
+1366,"ee was wiping a cows udder when he was holding the tube & got caught between machine rail, strain or injury by - using tool or machinery, wrist(s) & hand(s)"
+1392,"claimant stepped onto a pallet to pull a stack of metal grill hoods, tripped & fell into hoods, put hands up to catch himself causing laceration."
+1443,strain / injury -from repetitive motion
+1454,activity: cutting branches ac
+1463,"valencia ca/struck/injured by noc supervisor, struck/injured by noc supervisor"
+1472,"overuse/overexertion noc, overuse/overexertion noc"
+1481,"struck/injured by noc, struck/injured by noc"
+1494,"slip & fall onto concrete floor while pushing cows to get milked, lower back area - lumbar & lumbo-sacral"
+1500,"mr. alvarez was leaning forward to reach a cow & felt a pull in his left hip., hip"
+1534,"patient states his left elbow hit a door causing pain., elbow"
+1552,"slipped on ice and fell striking, fall, slip, or trip injury"
+1558,"slipped on ice injuring right knee and leg, fall, slip, or trip injury"
+1598,"the employee tested positive for covid19., struck or injured by"
+1634,"unknown the employee tested positive for covid19., struck or injured by"
+1714,"the employee and a coworker we; specific noc; multi head; msc absrb, ingst,inhle, vaccine"
+1728,"fall, slip, or trip injury"
+1735,"ct to the wrist, hand, knee, foot"
+1750,"disc (neck) sprain, motor vehicle miscellaneous"
+1755,"thumb laceration, cut/puncture/scrape by - hand tool not powered"
+1783,"hand fracture, strike against/step on miscellaneous"
+1784,"hand laceration, cut/puncture/scrape by miscellaneous"
+1785,"multiple upper extremities laceration, fall or slip injury miscellaneous"
+1826,"thumb laceration, cut/puncture/scrape by - miscellaneous"
+1841,"wrist dislocation, fall or slip injury - from different level"
+1851,"multiple body parts multiple physicial injuries only, miscellaneous causes other"
+1853,"thumb laceration, cut/puncture/scrape by object lifted or handled"
+1891,"the claimant cut her finger while using using a slicer,"
+1892,the claimant bumped her finger on a metal corner guard.
+1904,clmt states that crosswalk sign was flashing red and all the sudden a car ended up in the cross walk striking him mva
+1919,clmt was cleaning a knife when she received laceration.
+1920,mva clmt vehicle was rear ended by other vehicle.
+1934,"clmt finger dragged across a knife that was slightly underneath the side of the slicer she was cleaning, causing laceration."
+1935,clmnt was stretching to get the bread out of the oven and touched her right arm on the top and bottom of the oven. first aid at the store was given.
+1938,clmt was cutting a sandwhich in half when the knife slipped and cut the clmt left thumb.
+1941,clmt was cleaning the knife sustaining injury.
+1942,clmt working at sink when slicer cul clmt hand
+1949,the claimant was a passenger in a minor mva.
+1952,ee was driving to work location for the day and was rear ended in traffic.
+1961,clmnt was leaving for the day and slipped on wet concrete in the parking lot
+1963,clmt was driving vehicle on a wet road which caused her to slide. she sustained an unk injury.
+1971,"clmnt was pulling out of lisa, did a 3 point turn to face the exit, and hit the bumper of a car parked in a no parking area while going under 10 mph. no injuries reported clmnt tripped on"
+1978,clmnt was walking in the walk-in cooler with product in his hands and hit his head on the short ceiling
+1989,clmt burned arm when his arm brushed against hot pan
+1990,clmnt was ran off the road by a vehicle that rolled through a stop sign
+2013,clmt tried to grab a pair of gloves and accidently bumped into hot tray
+2014,clmt sliced the tip of her thumb with the slicer.
+2029,clmt was lifting and slicing for morning prep when she strained her back.
+2037,clmt lost balance on ice and fell
+2041,clmts vehicle got stuck on a curb while she was attempting to turn around in a driveway. clmt had to call for a tow truck to assist her with getting her car free.
+2050,clml cut his thumb with a knife while cutting bread
+2058,"as clmt was putting the trash can by the drive thru window, she bumped her left knuckle on the bottom edge of the landing table."
+2062,clmt was driving on a paved road that switched to loose gravel. car started fish tailing and clmt drove through a ditch and ended up on a water crop ruined corn field.
+2066,clmt dropped a stack of bread trays on her left foot. clmt dropped one tray and dropped the rest on foot while picking up the first one.
+2072,clmt cut finger while cleaning slicer
+2079,clmt was slicing cucumbers on slicer when a cucumber fell. the clmt went to pick it up. and his hand became stuck between the carriage and the blade.
+2097,clmnt was bread starting a sandwich when the knife slipped causing her injury.
+2099,line of cars stopped in the left lane behind someone who was trying to turn left. claimant moved over to the right lane and then as claimant was passing by the car in front of him moved over to the claimants lane. they hit the claimants side door & side
+2109,clmt cut their fingertips while cutting bread
+2146,clml's vehicle was rear ended by another vehicle while entering the parking lot of the store
+2151,clmnt cut left finger while cutting bread.
+2155,clmt stated that he was making a left turn and thought the other driver was going to let go first. clmt stated that he was hit on both his drivers side door and the left side passanger door
+2162,claimant was using bread starter when she cut her left thumb
+2186,claimant was rear- ended at a stop light.
+2187,claimant backed into a vehicle.
+2211,clmt cut finger while cutting bread
+2215,"the claimant was cutting bread, when his knife slipped and went through the tip of his left thumb. wound was cleaned. neosporin and guaze were applied."
+2230,clmt was driving when he was rear ended by another vehicle.
+2237,clmt slipped on wet floor and felt a pop in right knee.
+2238,claimant was attempting to make a left ahd turn and clipped the bumper of another car.
+2242,clmt tripped over her foot
+2254,"ee cut right hand, ring finger by a knife that was facing outward on cutting board, hand tool, utensil:not powered, finger(s)"
+2292,"employee was polishing when some of the polish compound was kicked up into his eye resulting in redness and irritation to the right eye, foreign matter (body) in eye(s), eye(s)-optic nerves, vision, eyelids"
+2303,"while the iw was stepping down into a hull console the iw lost their footing and injured their right ankle resulting in swelling., strain or injury by, noc, ankle-tarsals"
+2306,"while working overtime, the iw has developed pain in neck., on same level, multiple neck injury"
+2312,"iw states they have pain in neck radiating down through left shoulder and into left arm from lifting heavy items., object being lifted or handled, multiple neck injury"
+2314,"while cutting cable with box cutter, iw lacerated the right middle finger., hand tool, utensil; not powered, finger(s)-other than thumb & muscles"
+2321,"while the iw was handing a cup of resin down, it fell and splashed up into his l eye., foreign matter (body) in eye(s), eye(s)-optic nerves, vision, eyelids"
+2326,"while lifting supplies, the supplies fell on the iws left pinky finger resulting in a crushed left pinky., object being lifted or handled, finger(s)-other than thumb & muscles"
+2327,"while iw was unhooking a trailer, iws right hand got caught between the truck and the trailer resulting in injury. details tc follow., caught in, under or between, noc, wrist(s) and hand(s)"
+2330,"iw fell inside of the boat into a box resulting in a puncture wound to left lower hip area., fall, slip or trip, noc, hip"
+2335,"while kneeling to install a shower head and standing up the iw heard a pop in right knee resulting in pain and inflammation., strain or injury by, noc, knee-patella"
+2407,"ee was working and by mistake when ee cut something, ee cut two finger, caught,puncture,scrape,n oc"
+2426,"the ee was climbing a ladder and the ee slipped causing the step of th, from ladder or scaffolding"
+2463,"while the ee was going up the ladder with a bucket of melk, object being lifted or handled"
+2466,"ee was installing a hatch and the piece feel apart and fell, object being lifted or handled"
+2471,"ee was working and another ee was blowing the boat when a pa, falling or flying object"
+2509,"employee was lifting sweeper cage in lemoore resulting in lower back pain., 56 lifting, 42 low back area"
+2528,"8100 - struck or injury by, noc, 8100 - struck or injury by, noc, 6200 - buttocks"
+2538,"employee had a coworker put down a pallet jack onto the employees left foot. left foot injury, left ankle sprain."
+2556,"while backing forklift in tight quarters, ron clipped a stack of  pails to his left causing the pails to fall over. ron             instinctively reached out to stop the stack from falling cutting  his little finger on left hand on the strapping material"
+2586,"repetitive motion, repetitive motion, lower back(lumbar, sacral)"
+2592,"strain-lifting, strain-lifting, lower back(lumbar, sacral)"
+2603,"hit by-object used by other, hit by-object used by other, foot"
+2620,"hit by-falling/ flying object, hit by-falling/ flying object, foot"
+2659,the employee was lowering a pi; specific noc; knee(s); injury by holding/carrying
+2668,employees right hand was cut; laceration; hand(s); cut/injured by misc.
+2673,"ee was trying to fix the power wash machine and cut his hand with the grinder. this resulted in laceration to the top of the left hand., cut, puncture, scrape - object f, hand"
+2691,"collision or sideswipe with another vehicle, collision or sideswipe with another vehicle, soft tissue (neck)"
+2710,"fall, slip or trip, noc, fall, slip or trip, noc"
+2713,"struck or injured by - fellow worker; patient, struck or injured by - fellow worker; patient"
+2716,"strain or injury by, noc, strain or injury by, noc"
+2778,head
+2781,sprain right middle finger
+2819,"employee reports that his back popped while digging a trench., 59 using tool or machine, 42 low back area"
+2820,"employee was pulling the hose out of the tank. when he stepped back off of the platform and twisted ankle, 25 from different level, 55 ankle"
+2844,sideswiped by another vehicle
+2850,hot metal materials blew in left ear
+2856,comp-rr requested: the insured was driving down the road and a hog hit the driver side front of the vehicle and caused damages to the front quarter
+2876,driver was stopped at a stop sign on park of commerce way at parkway he then made a left turn onto parkway when crossing the road
+2883,insured vehicle backed into parked and unoccupied claimant vehicle
+2886,claimant sitting in his vehicle at job parking lot and was rear-ended by our insured claimant went to let management know of the accident and exch
+2889,"reporter states our insured in inner left turn lane, claimant in left turn lane on the outside, or insured turned into claimant"
+2902,"employee was attempting to turn left to exit, did not see the median camera post while checking for oncoming traffic and ran over it"
+2921,cut using weed eater
+2926,"while working on a tire, the employee's melal bar flipped up and cut his left ear requiring stitches."
+2927,"employee was airing up a tire when it blew up. the air pressure blew into his left eye and left ear, causing pain in his eye and ringing in his ear."
+2928,"employee was removing tire from wheel, wheel broke loose and fell on foot."
+2934,foot ran over by forklift driver.
+2938,on 01/01/2001 jack was loading tires into a truck and injured his right shoulder and back.
+2939,"|on 01/01/2001 jack was lifting and installing large tires onto a semi truck. this requires he bend at the knee multiple times during the installation process. after completing this task, he noticed he had pain and swelling in the right knee and reported to his supervisor."
+2995," claimant was strapping pallets on the truck when he pulled the straps, it seems he hurt is his lower back., twisting, lumbar spine"
+2996,"claimant was strapping pallets on the truck when he pulled the strapps, it seems he hurt is his lower back, unknown, unknown"
+3006,"left foot contusion, cart wheel ran over, struck or injured by"
+3014,"cut middle left finger using a box cutter, cut, puncture, scrape, injured by"
+3049,"bent down to put a dolly under millwork and hit eye on the millwork., object being lifted or handled, multiple head injury"
+3065,"the employee was weed eating at work when he was struck in the left eye socket by a foreign object, misc: foreign body/mtr in eye, head: eye(s)"
+3080,"ee was loading equipment onto trailer and strained right thigh., strain or injury by - lifting, leg upper"
+3083,"left hand cut on miter saw while reaching for cut piece of material, cut, puncture, scrape - powered hand tool, hand"
+3085,"left hand strain, strain or injury by - pushing or pulling, arm lower"
+3096,"sprain/strain/tear - sprain/strain, sprain/strain/tear - sprain/strain, elbow"
+3098,"act all other injuries noc - accident type, noc, all other injuries noc - accident type, noc, body systems & mult systems"
+3124,"multiple phys injuries only - fall slip or trip noc, multiple phys injuries only - fall slip or trip noc, multiple body parts"
+3126,"all other injuries noc - accident type, noc, all other injuries noc - accident type, noc, multiple body parts"
+3128,"all other injuries noc - struck or injured noc, all other injuries noc - struck or injured noc, multiple body parts"
+3129,"sprain/strain/tear, sprain/strain/tear, low back area"
+3130,"all other injuries noc - struck or injured noc, all other injuries noc - struck or injured noc, multiple body parts"
+3139,"fracture - struck or injured noc, sprain or tear, multiple body parts"
+3142,"fracture - slip/trip/fall, fracture - slip/trip/fall, ankle"
+3169,"employee felt pain in his left elbow while throwing wood., 53 twisting, 32 elbow"
+3170,"employee punctured his left thumb with a nail, when the nail gun he was using slipped., 17 object being lifted, 37 thumb"
+3173,"employee was throwing a rope to secure the load and injured his right shoulder., 60 strain or injury noc, 38 shoulder(s)"
+3186,"employee was repairing a pallet when a piece a wood went into left arm, 87 foreign body in eye, 33 lower arm"
+3202,employee was unlocking the door to the clients residence when her right hand was pinched between the right thumb and index finger in the lock box mechanism
+3207,iw reports increasing pain in legs during past four weeks due to repetitive use
+3220,employee was changing a dementia clients brief when the client became combative and hit the employee in the stomach.
+3233,"charlotte was stepping up on the curb at the grocery store, while running errands for a client. she was answering a phone call, missed stepping up onto the curb, tripped and fell on her left knee and elbow."
+3234,walked into a bed frame in the dark. injured right leg.
+3245,injured worker states contusion to head when she reached into fridge to get food and then hit door on the fridge
+3266,"an accepted, non-litigated claim for a 52-year-old commercial tire tech who alleged that on01/01/01, he was inflating a tire when the tire exploded a ..., foreign matter (body) in eye(s), head : eye(s)"
+3267,"this is an accepted, nonolitigated claim for 20-year-old tire technician who alleged he was moving a tire and dropped the tire on his left big toe on ..., falling or flying object, lower extremities : foot"
+3284,strain or injury by
+3300,"he stepped in a hole while delivering a package, rolled his lt ankle."
+3313,mva-he turned in front of incoming traffic & was hit by truck.
+3316,"he hit his left shoulder on the overhead lights. also, felt pain in rib cage, neck, & back."
+3320,"delivering package, sprinklers came on and claimant slipped on customers walkway., delivering package, sprinklers came on and claimant slipped on customers walkway."
+3323,"side door of van was broken. ee was having to bring packages from the back through the front door of the van. ee stated while doing this, he injured his back while inside the van. ee will be seeking medical treatment, but has not at this time, side door of van was broken. ee was having to bring packages from the back through the front door of the van. ee stated while doing this, he injured his back while inside the van. ee will be seeking medical treatment, but has not at this time"
+3326,"claimant stated on her incident report that her right ankle gave out when stepping out of the van. she then injured her left knee trying to catch herself. claimant notified management the day after injury stating that she was running and fell into a ditch. claimant has also had prior, claimant stated on her incident report that her right ankle gave out when stepping out of the van. she then injured her left knee trying to catch herself. claimant notified management the day after injury stating that she was running and fell into a ditch. claimant has also had prior"
+3331,"strain or injury by miscellaneous, strain or injury by, knee"
+3344,"employee was in the warehouse and stepped off the forklift when he felt a pain in his knee, resulting in a right knee strain, fall/slip: slipped, didnt fall, hip"
+3363,claimant felt pain while lifting a heavy stone.
+3372,48 year old reported back pain after lifting granite table top from floor to truck back strain
+3374,pulling/lifting 250 lb. granite countertop
+3388,"ee was loading boxes from truck when unknown incident occurred resulting in unknown injury to unknown part of back., strain or injury by - miscellane, multiple trunk multiple trunk"
+3389,"ee was unload boxes and felt pain in right triceps and right shoulder. ee continued to work and injured their shoulder more. resulting in a strained right shoulder, strain or injury by - lifting, shoulder(s)"
+3396,"ee was wrapping a multi pack shrink wrap. a robo comopacta #9 ee reached into the machine before he was supposed to and his arm got trapped inside the machine. ee sustained a laceration to his right pinky finger., strike against/step on - movin, finger(s)"
+3412,"ee was carrying a heavy box when it slipped out of his hands and his hand went up and hit his chin. resulting in a chipped tooth., struck or injured by - object li, teeth"
+3418,"ee was in the picking area when ee tripped and injured ees right shoulder., fall or slip - on same level, shoulder(s)"
+3422,"ee was opening a package with a knife when ee cut left hand resulting in a laceration to ee left hand., cut, puncture, scrape - object i, hand"
+3453,"all other injuries noc - struck or injured noc, all other injuries noc - struck or injured noc, multiple body parts"
+3463,"infectious disease - body fluids, infectious disease - body fluids, no physical injury"
+3464,"strain or tear, strain or tear, back"
+3472,ee was bending over to pull on hose when felt back pain.
+3473,a hose got clogged and hose threw ee into the air landing awkwardly on l-side. ee fell on l-should and felt a hot sensation scross shoulder blade and neck area.
+3480,dx: open wound on left great toe
+3486,burn to lower arm.
+3507,"employee was opening a gate to the property when the gate fell on them causing scratches to their upper left arm .., struck or injured by, upper extremities"
+3518,"toe(s) - crushing, caught in or between - object handled"
+3523,"skull - contuslon, struck/injured by - object being lifted or handled"
+3531,"while stepping down from a trailer to secure a forklift the iw twisted his right knee., strain or injury by, noc, knee-patella"
+3533,"iw was driving a forklift and struck pot holes over time causing injury to his lower back., other-miscellaneous, noc, lower back area-lumbar and lumbo sacral"
+3541,"iw stateson 1/1/01 he was bit on the right knee by by possibly a bug, while working on the employees premises., animal or insect, knee-patella"
+3543,"employee was removing and obstruction from machine belt with left hand when the operator advanced the belt, his finger went between the pulleys., machine or machinery, hand-excld wrist or fingers"
+3547,"employee driving loader toward pile as the front tire sunk into a hole causing the tractor to jerk violently, using tool or machinery, lower back area-lumbar and lumbo sacral"
+3570,"employee reached into holder to grab a strap and a splinter went underneath his nail, foreign matter (body) in eye(s), finger(s)-other than thumb & muscles"
+3575,"employee lifted grates and they were too heavy, lifting, lower back area-lumbar and lumbo sacral"
+3580,"pallet fell onto employees right foot, falling or flying object, foot-metatarsals, heel excl ankle or toe"
+3593,"left thigh - dog bite clients two dogs ran out of front door and bit ee on his left thigh., upper leg"
+3594,"cut, puncture, scrape, injured by miscellaneous, cut, puncture, scrape, injured by miscellaneous, wrist(s) and hand(s)"
+3599,"fall, slip, or trip injury, miscellaneous, fall, slip, or trip injury, miscellaneous, lower back area"
+3612,"he was walking through the job site, and he stepped on a rusty nail."
+3620,"iw was climbing a ladder, when it pulled free from the wall mounts; resulting in lower back, left hip, and right arm strain., fall/slip: diff level/elevation, mult: multiple body parts"
+3631,"he got off the truck and stepped on the sidewalk which had a crack and rolled his ankle, strain by, noc, lower ext: ankle"
+3655,"ee was sitting a chair and twisted around to pick up an item when ee felt pain on the lower back. resulting ees strain the lower back, strain or injury by - twisting, back lower/ lumbar / sacral spine"
+3670,"ee was providing therapy to a child client. the client started having behavior issues and stood up on an object and elbowed the ee on the right side of jaw., struck or injured by - fellow worker / patient, facial bones"
+3678,"ee was preventing a client from climbing up a ladder when they tripped and fell twisting their left ankle. resulting in a strain to the left ankle., fall or slip - on same level, ankle"
+3683,"ee was providing services to a client reading to the child resulting in the child running head first and hitting the ee in the head causing headaches, struck or injured by - fellow worker / patient, skull"
+3691,"ee was working with one of the kids when the kid had a tantrum kicking the ee injuring her left pinkie, struck or injured by - fellow worker / patient, finger(s)"
+3697,"ee was providing therapy to client. client banged head into ees left cheek/eye area. ee had blurred vision and felt like she was passing out and had to lay back, struck or injured by - fellow worker / patient, other head soft tissue"
+3708,"claimant was cleaning the clinic when their heard a pop in their back and developed pain in the low back., strain or injury by - twisting, back lower/ lumbar / sacral spine"
+3739,"injured worker was unloading the trailer using a mullet when he hit the trailer with the mullet and hit his finger; resulting in a fracture distal phalanx of right ring finger, struck by hand tool or machine, upper ext: finger(s)"
+3744,"employee was picking when they stepped off the ladder and missed a step, hitting their foot on the ground and started feeling pain on their left hip, 26 from ladder or scaffolding, 51 hip"
+3749,"employee was holding a full picking sack when she tripped over an irrigation hose and fell, striking her face and right shoulder on a bin., 29 on same level, 38 shoulder(s)"
+3755,"employee had both of his legs run over by a bin trailer., 81 struck injured by noc, 53 knee"
+3766,"employee was picking oranges when he reached out for an orange and punctured his right middle finger., 19 cut puncture scrape noc, 36 finger(s)"
+3768,"employee was filling a box of cherries when she stepped in a trench and rolled her left ankle, causing a sprain., 53 twisting, 55 ankle"
+3785,the employee was removing board from around some concrete. the employee's finger got caught between the boards injuring the employee's left middle finger.
+3786,the iw was carrying a 2x10 with his co-worker's help. his co-worker dropped one extreme and the other dropped and injured his right hand.
+3799,employee caught a limb he had; strain; upper arm; strain/injury by misc.
+3801,when employee was climbing dow; laceration; upper leg; fall/slip ladder/scaffold
+3804,(doctors first report): tripp; strain; lower back; fall/slip on misc.
+3816,"< wc01>while bending over to lift some paint, ee feels like he pinched a nerve in his back .< /wc01>"
+3849,"head injury - framing wood, brain"
+3862,"cut / puncture wound, cut, puncture, scrape-misc."
+3865,"strain back while lifting, strain or injury by-lifting"
+3881,"employee was walking a client outside and hurt her right leg., strain injury, noc, multiple lower extremities"
+3888,"possible exposure at work as an employee tested positive last week., pandemic, lungs, both"
+3889,"employee tested positive for covid with home test. possible work exposure as another employee tested positive in the office last week., pandemic, lungs, both"
+3893,"employee stated ladder that was leaning against the wall fell on her shoulder., unknown, multiple body parts"
+3904,"providing care to clients at daycare., pandemic, lungs, both"
+3912,"lisa works at her clients home. the clients family tested positive a few days prior, which exposed lisa to covid-19., pandemic, lungs, both"
+3913,"she fell outside of her clients home., fall, slip on stair, step or curb, multiple trunk"
+3914,"covid testing students on an active campus., pandemic, lungs, both"
+3925,"mariah was providing assistance to her client on beside commode, putting on her clients diaper. while doing this, her client directly hit her on the right side of the head with a hard toy, globe size of a softball., unknown, head"
+3929,"mother of client tested positive prior to lisa testing positive. darci works one on one with a client in the clients home and was exposed to clients mother., pandemic, lungs, both"
+3932,"administering covid tests to students, pandemic, lungs, both"
+3942,"providing care to client & other positive students. she has not been in contact with anyone outside of work that has tested positive for covid., pandemic, lungs, both"
+3974,lisa is a covid tester for the school school district. students and staff have been testing positive.
+3978,jack is a covid tester for the school district
+4013,"employee was bending down/reaching over client to ratchet down wheelchair when they felt pain from right side of neck to right shoulder, strain or injury by - reaching, multiple trunk"
+4024,"employee was unloading child, walking backwards with wheelchair. ramp was down, employee forgot to raise ramp. fell backwards., fall or slip - on same level, knee"
+4029,"59 y/o employee was going to take a seat on the couch and her legs hit a stool. she thought she had gone back enough to sit on the couch but fell on the ground, fall or slip - on same level, back lower/ lumbar / sacral spine"
+4051,"laceration to l. temple-handle of lift snapped., skull"
+4052,"lower back - felt sharp pain, lower back area"
+4098,event 010101aaa the ee was performing general work duties and the ee s standing for 12 to 16 hours per day resulted in big toe on left foot being amputated. medical treatment was sought.
+4114,event 010101aaa employee was stacking boxes when she struck her right cheek.
+4116,event 010101aaa employee was grading bell peppers on conveyor belt when her left wrist began to hurt.
+4143,left corneal abrasion.
+4146,event 010101aaa was cleaning bathrooms and there was a splash of bleach which fell in her eye.
+4162,event 010101aaa employee was working the chlorinated water while sanitizing the tomatoes and when he removed the gloves he noticed a rash on his left hand. 
+4167,event 010101aaa employee was putting boxes on the rail  got on top of a barrier and twisted his ankle when stepping down
+4180,101010aaa on 01/01/2001 adrian was assigned to line 3 blower  brushing the conveyor off. he climbed on top of the thw water tank to replace a brush on line 3 when he slipped off and landed on his chest.
+4181,event 010101aaa shoveling tomatoes from the trailer when the truck arrived. the employee did not fall but landed to the side of the truck.
+4194,event 010101aaa while working the employee felt a bite on her left leg and became infected as well as swollen.
+4207,event 010101aaa with time employee developed a rash on both legs.
+4214,event 010101aaa francisco was repairing stakes and something fell in his eye. ee suffered a corneal abrasion to his right eye. medical treatment sought.
+4219,event 010101aaa ee was putting chlorine in wash station when he slipped. injury sustained lumbar strain. medical attention sought
+4234,event 010101aaa he was eating soup and burned his left arm. partial thickness burn of left forearm. medical tx.
+4240,event 010101aaa ee hurt his right shoulder while he was tying. 
+4244,"2600 - fall/slip from ladder or scaffolding, 2600 - fall/slip from ladder or scaffolding, 3800 - shoulder(s)"
+4249,"7500 - struck/injured by falling or flying object, 7500 - struck/injured by falling or flying object, 9000 - multiple body parts"
+4263,"the ee was involved in a vehicle collision. the ee sustained esto his back, nose and right eye. fractur"
+4275,"9806 - continuous trauma, 9806 - continuous trauma, 5300 - knee"
+4299,the employee fell off a quad b
+4332,ee delivering to customer location when dog attack
+4335,"strained back. ee was lifting a package and pulled a muscle in his back., strained back"
+4339,"strain abdomen/groin area. ee was loading a truck, i grabbed a box from the top shelf of a cart and it was much heavier than thought, abdomen"
+4346,"strain lower back. ee was at the top of a small of stairs in the loading area when he tripped on a metal roller system.ee fell from 4th steps, strain lower back"
+4355,"29-on same level, 29-on same level, 50-multiple lower extremities"
+4374,"17-object being lifted or handled, 17-object being lifted or handled, 35-hand"
+4376,"75-falling or flying object, 75-falling or flying object, 36-finger(s)"
+4382,"60-strain or injury by, noc, 60-strain or injury by, noc, 42-lower back area"
+4383,"16-hand tool, utensil; not powered, 16-hand tool, utensil; not powered, 18-soft tissue"
+4388,"17-object being lifted or handled, 17-object being lifted or handled, 38-shoulder(s)"
+4418,"miscellaneous - cumulative miscellaneous, miscellaneous - cumulative miscellaneous, upper leg"
+4438,"fall, slip, or trip injury from ladder or scaffolding, fall, slip, or trip injury from ladder or scaffolding, upper arm"
+4451,"cut, puncture, scrape, injured by hand tool, utensil; not powered, cut, puncture, scrape, injured by hand tool, utensil; not powered, thumb"
+4483,"jack was unloading bumper covers off of a box truck, stepped down, and injured his left knee."
+4485,employee sustained a right eye foreign body when struck by falling metal while servicing a vehicle up on a lift.
+4489,"employee, jack, passed out due to pain from left hand injury causing laceration to back of head"
+4491,employee had a seizure and was disoriented following the seizure.
+4498,employee sustained a hernia while removing a cylinder head from a vehicle
+4512,employee sustained contusion to left elbow and head when slipped and fell on oil
+4527,employee sustained right hand contusion when hand was caught between a crowbar and the fender he was loosening.
+4555,employee struck by tire as it fell from vehicle causing contusion to neck and strain to right shoulder
+4559,employee sustained a left eye foreign body when struck by falling rust while underneath a vehicle in for service.
+4565,employee struck head on underside of vehicle while driving floor cleaning machine causing
+4570,employee lacerated left forearm with a razor blade when taping a vehicle to be painted
+4571,"employee, jack, tripped over a box on parts truck and jumped off injuring his low back."
+4588,employee slipped on ice in parking lot straining upper back
+4595,employee felt dizzy and had trouble seeing out of his left eye.
+4615,"employee, jack, was stuck by a third-party vehicle that crossed the center line."
+4616,employee sustained right knee contusion after closing customer's vehicle door on his leg
+4627,employee strained his left biceps tendon when he dropped a tool and went to grab it.
+4658,"slip/fall noc, slip/fall noc"
+4659,"fall same level excluding ice/snow, fall same level excluding ice/snow"
+4683,"struck/injured by noc, struck/injured by noc"
+4689,"slip/fall noc, slip/fall noc"
+4695,"slip/fall noc, slip/fall noc"
+4696,"struck/injured by noc, struck/injured by noc"
+4716,"struck/injured by noc, struck/injured by noc"
+4733,"slip/fall noc, slip/fall noc"
+4743,"fall same level excluding ice/snow, fall same level excluding ice/snow"
+4749,"struck/injured by noc, struck/injured by noc"
+4767,"foreign body in eye, foreign body in eye"
+4773,"slip/fall noc, slip/fall noc"
+4786,"slip or fall on stair/escalator/elevator, slip or fall on stair/escalator/elevator"
+4791,"struck/injured by noc, struck/injured by noc"
+4793,"overuse/overexertion noc, overuse/overexertion noc"
+4795,"overuse/overexertion noc, overuse/overexertion noc"
+4802,"overuse/overexertion noc, overuse/overexertion noc"
+4804,"struck/injured by noc, struck/injured by noc"
+4808,"struck/injured by noc, struck/injured by noc"
+4839,"other/ unk, other/ unk, elbow"
+4845,"hit by-falling/ flying object, hit by-falling/ flying object, finger(s)"
+4847,"cut-broken glass, cut-broken glass, hand"

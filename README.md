@@ -136,3 +136,22 @@ Saving the predictions into the test.csv dataset.
 - Then run the cause_train.ipynb followed by bodypart_train.ipynb or vice versa, this will fine tune the bert-base-uncased model and saves the model locally.
 - Run the test.ipynb  - This is where we load both the models and predict the labels for the test.csv. and saved the file in a new test.csv file which contains the predicted labels
 
+## FastAPI Integration
+sample input:
+"punched ee in the face numerous times by person supported., struck or injured by, head"
+
+![Screenshot (474)](https://github.com/Gowtham58/Multilabel-Classifier-for-Injury/assets/75661938/8b1ac878-1597-4512-bedb-628021a60f04)
+
+![Screenshot (475)](https://github.com/Gowtham58/Multilabel-Classifier-for-Injury/assets/75661938/53b1cb64-fbce-412f-9507-b6247a8233d7)
+
+we get out put as:
+```
+{
+  "answer": [
+    "struck or injured by",
+    "head"
+  ]
+}
+```
+
+

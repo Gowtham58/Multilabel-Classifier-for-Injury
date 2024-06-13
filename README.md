@@ -153,5 +153,14 @@ we get out put as:
   ]
 }
 ```
+## Dockerization
+- Dockerized the FastAPI application.
+- All files to dockerize the application is in app folder
+
+## Steps to Run the Application
+- Obtain the fine-tuned model by running the bodypart_train.ipynb and cause_train.ipynb
+- Then copy the model files into the bodypart_model and causes_model inside the app folder
+- Finally run the ``` docker compose up --build ``` to build the docker image
+  
 
 
